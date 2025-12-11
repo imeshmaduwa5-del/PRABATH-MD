@@ -11,7 +11,7 @@
       "required": true
     },
     "SESSION_ID": {
-      "description": "Put your session Id here.",
+      "description": "PRABATH-MD~o7BxKLwdrmya8f5",
       "required": true
     },
     "GITHUB_USERNAME": {
@@ -19,7 +19,7 @@
       "required": true
     },
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github authtoken here.",
+      "description": "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",
       "required": true
     }   
 },
